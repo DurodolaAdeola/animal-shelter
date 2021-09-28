@@ -19,3 +19,19 @@
     color: black;
     
 }
+.fr {
+    background-color: yellow;
+}
+.yt {
+    text-align: center;
+    font-family: Arial;
+    color: darkgreen;
+    font-style: italic;
+    border-style: double;
+    background-color: red;
+    border-radius: 50px;
+    border-width: 10px;
+}
+.tt {
+    position: fixed;
+}
