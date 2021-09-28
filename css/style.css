@@ -1,0 +1,21 @@
+.desk {
+    background-color: aqua;
+}
+.boc {
+    background-color: burlywood;
+}
+.yyy {
+    border-style: groove;
+    background-color: gainsboro;
+}
+.ggg {
+    background-color: cyan;
+    font-style: italic;
+}
+.yu {
+    border-style: solid;
+    border-radius: 50px;
+    text-align: center;
+    color: black;
+    
+}
